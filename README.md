@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/crono628/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crono628&theme=tokyonight" />
+</a></br></br>
+<a href="https://github.com/crono628/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crono628&theme=tokyonight" />
+</a>
 
 <!--
 **crono628/crono628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
