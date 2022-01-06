@@ -10,7 +10,7 @@
 - I’m currently working on The Odin Project
 - I’m currently learning Javascript
 - I’m looking to collaborate on any open source project
-- Pronouns: He/Him
+- He/Him
 
 <!--
 **crono628/crono628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
