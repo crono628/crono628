@@ -1,16 +1,11 @@
 <a href="https://github.com/crono628">
-  <img  src="https://github-readme-stats.vercel.app/api?username=crono628&theme=tokyonight" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=crono628&count_private=true&hide=contribs,prs,issues&theme=tokyonight" />
 </a>
 <br>
 <a href="https://github.com/crono628">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crono628&theme=tokyonight" />
 </a>
 <br>
-
-- I’m currently working on The Odin Project
-- I’m currently learning Javascript
-- I’m looking to collaborate on any open source project
-- He/Him
 
 <!--
 **crono628/crono628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
